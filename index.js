@@ -1,4 +1,5 @@
 window.onload = function () {
+/*
   document.getElementById("chloe").onclick = function () {
     document.getElementById("name").innerHTML = "I love my fiance Saung Zarchi Hnin. I vow eternal love.";
     document.getElementById("job").innerHTML = "";
@@ -12,4 +13,5 @@ window.onload = function () {
       document.title = title;
     }
   }, 1000);
+*/
 }
