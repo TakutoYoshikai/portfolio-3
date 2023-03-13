@@ -161,3 +161,9 @@ body {
 .past-title, .latest-title {
   text-align: center;
 }
+.cve-title {
+  font-size: 14px;
+  color: white;
+  margin-top: 70px;
+  font-weight: bold;
+}
